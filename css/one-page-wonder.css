@@ -15,7 +15,7 @@ body {
 }
 
 header.masthead {
-    background: url('http://myphototeacher.com/bc/CurrentFunArt/2015-16/PrinciplesOfArt/ForWeb/Examples/Pattern5.jpg') no-repeat center center scroll;
+    background: url("http://myphototeacher.com/bc/CurrentFunArt/2015-16/PrinciplesOfArt/ForWeb/Examples/Pattern5.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
